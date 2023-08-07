@@ -78,7 +78,7 @@ const About = () => {
             {/* Portfolio Link Section */}
             <section className="portfolio-section">
                 <p className="description">
-                    I've made my portfolio's code public on GitHub. Feel free to check it out <a className='portfolio-link' href='https://github.com/brandonhann/portfolio' target='_blank' rel='noreferrer'>here</a>!
+                    I've made my portfolio's code public on GitHub. Feel free to check it out <a className='portfolio-link' href='https://github.com/brandonhann/comp1054-finalproject' target='_blank' rel='noreferrer'>here</a>!
                 </p>
             </section>
 
