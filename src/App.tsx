@@ -6,7 +6,7 @@ import Blog from "./components/Blog";
 import BlogPostPage from "./components/BlogPostPage";
 import About from "./components/About";
 import Projects from "./components/Projects";
-import "./App.css"
+import "./css/App.css"
 
 const App: React.FC = () => {
   const location = useLocation();
